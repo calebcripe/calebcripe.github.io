@@ -7,9 +7,9 @@ about:
   image-width: 15em
   links: 
     - text: linkedIn
-      href: "//https://www.linkedin.com/in/calebcripe/"
+      href: //https://www.linkedin.com/in/calebcripe/
     - text: Email
-      href: "//cripec17@colostate.edu"
+      href: //cripec17@colostate.edu
     - text: Warner College of Natural Resources
-      href: "//https://warnercnr.colostate.edu/"
+      href: //https://warnercnr.colostate.edu/
 ---

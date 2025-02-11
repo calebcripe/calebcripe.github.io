@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+**Background**
 
-```{r}
-1 + 1
-```
+**Interests & Passions**
