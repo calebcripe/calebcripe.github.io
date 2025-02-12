@@ -1,6 +1,5 @@
 ---
 title: "Caleb's Website"
-image: 000058.jpg
 about:
   template: solana
   image-shape: rectangle
