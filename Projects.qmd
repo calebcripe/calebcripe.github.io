@@ -1,3 +1,21 @@
 ---
 title: "Projects"
 ---
+
+## Technical Communication Report
+
+I took Technical and Professional Communication in the Spring of 2024, which focused on professional communication skills and the presentation of research in a refined manner. My project focused on the implementation of walkable city infrastructure to increase urban sustainability, and through this assignment I gained valuable knowledge such as:
+
+-   Approaching complex topics in an analytical manner and communicating an unbiased perspective on sustainability issues.
+
+-   Organizing documents to streamline the reader's experience and present clear arguments.
+
+-   Demonstrating a robust understanding of technical communication principles and applications to my field.
+
+------------------------------------------------------------------------
+
+<iframe src="images/JTC300 Final Technical Report_Caleb Cripe.pdf" width="100%" height="600px">
+
+</iframe>
+
+------------------------------------------------------------------------

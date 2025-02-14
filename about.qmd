@@ -3,8 +3,16 @@ title: "About"
 output: html
 ---
 
-![](images/000058.jpg){fig-align="center"}
+![](images/000058.jpg){fig-align="center" width="517"}
 
 **Background**
 
+Hi! My name is Caleb Cripe and I'm a student at Colorado State University studying Ecosystem Science and Sustainability, with minors in Sociology and History. I grew up in Fort Collins, CO and developed an early love for the outdoors through camping, hiking, and backpacking. I'm interested in pursuing a career in Environmental Policy Management and I'm excited to see where my education takes me!
+
 **Interests & Passions**
+
+-   I enjoy film photography and love travelling to natural spaces around the country to explore and capture their beauty.
+
+-   I've worked at Ben & Jerry's Fort Collins for 2 years and I am proud to represent their progressive, non-partisan social advocacy!
+
+-   I love music and have been to 20+ concerts in my life; some of my favorites have been Dead & Co., Lord Huron, and volunteering at the Telluride Bluegrass Festival.
